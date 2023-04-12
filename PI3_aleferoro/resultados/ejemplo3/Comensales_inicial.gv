@@ -1,0 +1,22 @@
+strict graph G {
+  1 [ label="Ana" ];
+  2 [ label="Luis" ];
+  3 [ label="Berta" ];
+  4 [ label="Juan" ];
+  5 [ label="Pedro" ];
+  6 [ label="Adolfo" ];
+  7 [ label="Carmen" ];
+  8 [ label="Ramiro" ];
+  9 [ label="Ivan" ];
+  10 [ label="Eloy" ];
+  11 [ label="Isabel" ];
+  1 -- 2;
+  1 -- 3;
+  4 -- 2;
+  5 -- 6;
+  7 -- 8;
+  7 -- 9;
+  10 -- 6;
+  10 -- 7;
+  11 -- 10;
+}

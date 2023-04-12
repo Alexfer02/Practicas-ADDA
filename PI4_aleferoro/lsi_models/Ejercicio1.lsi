@@ -1,0 +1,21 @@
+head section
+
+Integer getNumVariedades()
+Integer getNumTipos()
+Integer getBeneficioVariedad(Integer i)
+Double getPorcentajeCafeJParaVariedadI(Integer i, Integer j)
+Integer getKilosDisp(Integer i)
+
+Integer m = getNumVariedades()
+Integer n = getNumTipos()
+
+goal section
+
+max sum(getBeneficioVariedad(i) x[i], i in 0 .. m)
+
+constraints section
+x[0] -x[i]>1, i in 1 .. m
+sum(getPorcentajeCafeJParaVariedadI(i,j) x[i], i in 0 .. m)<= getKilosDisp(j), j in 0 .. n
+
+int
+x[i], i in 0 .. m
