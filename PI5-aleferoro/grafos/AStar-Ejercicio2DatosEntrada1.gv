@@ -1,0 +1,17 @@
+strict digraph G {
+  1 [ style="bold" label="Ejercicio2Vertex[index=0, remaining=[1, 2, 3, 4, 5], centers=[]]" ];
+  2 [ style="solid" label="Ejercicio2Vertex[index=1, remaining=[1, 2, 3, 4, 5], centers=[]]" ];
+  3 [ style="solid" label="Ejercicio2Vertex[index=2, remaining=[1, 2, 3, 4, 5], centers=[]]" ];
+  4 [ style="solid" label="Ejercicio2Vertex[index=3, remaining=[1, 2, 3, 4, 5], centers=[]]" ];
+  5 [ style="solid" label="Ejercicio2Vertex[index=2, remaining=[2, 3, 5], centers=[0]]" ];
+  6 [ style="solid" label="Ejercicio2Vertex[index=3, remaining=[2, 3, 5], centers=[0]]" ];
+  7 [ style="bold" label="Ejercicio2Vertex[index=1, remaining=[5], centers=[0]]" ];
+  8 [ style="bold" label="Ejercicio2Vertex[index=2, remaining=[5], centers=[0]]" ];
+  1 -> 2 [ style="solid" label="Ejercicio2Edge[source=Ejercicio2Vertex[index=0, remaining=[1, 2, 3, 4, 5], centers=[]], target=Ejercicio2Vertex[index=1, remaining=[1, 2, 3, 4, 5], centers=[]], action=0, weight=0.0]" ];
+  2 -> 3 [ style="solid" label="Ejercicio2Edge[source=Ejercicio2Vertex[index=1, remaining=[1, 2, 3, 4, 5], centers=[]], target=Ejercicio2Vertex[index=2, remaining=[1, 2, 3, 4, 5], centers=[]], action=0, weight=0.0]" ];
+  3 -> 4 [ style="solid" label="Ejercicio2Edge[source=Ejercicio2Vertex[index=2, remaining=[1, 2, 3, 4, 5], centers=[]], target=Ejercicio2Vertex[index=3, remaining=[1, 2, 3, 4, 5], centers=[]], action=0, weight=0.0]" ];
+  2 -> 5 [ style="solid" label="Ejercicio2Edge[source=Ejercicio2Vertex[index=1, remaining=[1, 2, 3, 4, 5], centers=[]], target=Ejercicio2Vertex[index=2, remaining=[2, 3, 5], centers=[0]], action=1, weight=3.0]" ];
+  5 -> 6 [ style="solid" label="Ejercicio2Edge[source=Ejercicio2Vertex[index=2, remaining=[2, 3, 5], centers=[0]], target=Ejercicio2Vertex[index=3, remaining=[2, 3, 5], centers=[0]], action=0, weight=0.0]" ];
+  1 -> 7 [ style="bold" label="Ejercicio2Edge[source=Ejercicio2Vertex[index=0, remaining=[1, 2, 3, 4, 5], centers=[]], target=Ejercicio2Vertex[index=1, remaining=[5], centers=[0]], action=1, weight=10.0]" ];
+  7 -> 8 [ style="bold" label="Ejercicio2Edge[source=Ejercicio2Vertex[index=1, remaining=[5], centers=[0]], target=Ejercicio2Vertex[index=2, remaining=[5], centers=[0]], action=0, weight=0.0]" ];
+}

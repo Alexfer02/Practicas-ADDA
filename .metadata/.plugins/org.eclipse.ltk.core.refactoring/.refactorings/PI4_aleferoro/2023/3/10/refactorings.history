@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;SolucionEjercicio1AG.java&apos; to &apos;PI4_aleferoro/src/_soluciones&apos;&#x0D;&#x0A;- Original project: &apos;PI4_aleferoro&apos;&#x0D;&#x0A;- Destination element: &apos;PI4_aleferoro/src/_soluciones&apos;&#x0D;&#x0A;- Original element: &apos;ejercicio1.SolucionEjercicio1AG.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;_soluciones" element1="/src&lt;ejercicio1{SolucionEjercicio1AG.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1678371284737" units="1" version="1.0"/>
+</session>

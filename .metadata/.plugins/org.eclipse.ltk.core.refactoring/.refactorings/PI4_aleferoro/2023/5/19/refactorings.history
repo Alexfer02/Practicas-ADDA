@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;DatosEjercicio1.java&apos; to &apos;PI5-aleferoro/src/_datos&apos;&#x0D;&#x0A;- Original project: &apos;PI4_aleferoro&apos;&#x0D;&#x0A;- Destination element: &apos;PI5-aleferoro/src/_datos&apos;&#x0D;&#x0A;- Original element: &apos;_datos.DatosEjercicio1.java&apos;" description="Copy compilation unit" destination="=PI5-aleferoro/src&lt;_datos" element1="/src&lt;_datos{DatosEjercicio1.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1684065855012" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/PI2_ADDA - Curso 22_23"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="4"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="tests.ejercicios.TestEjercicio1"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="curso22_23_pi2"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="PI2_ADDA - Curso 22_23"/>
+</launchConfiguration>

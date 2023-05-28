@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<syncparticipants>
+<participant displayName="Git (DatosComparti...Solve, Parsers)" id="org.eclipse.egit.ui.modelCompareParticipant" secondary_id="1666302886745">
+<data forceFetch="false" root="false">
+<org.eclipse.team.ui.MODEL_PARTICIPANT_SETTINGS org.eclipse.team.ui.MODEL_PARTICIPANT_DESCRIPTION="DatosComparti...Solve, Parsers" startupAction="none">&#x0A;<org.eclipse.team.ui.MODEL_PARTICIPANT_REFRESH_SCHEDULE org.eclipse.team.ui.CTX_REFRESHSCHEDULE_ENABLED="false" org.eclipse.team.ui.CTX_REFRESHSCHEDULE_INTERVAL="3600" org.eclipse.team.ui.CTX_REFRESHSCHEDULE_RUNONCE="false"/>
+<org.eclipse.team.ui.MODEL_PARTICIPANT_MAPPINGS modelProviderId="org.eclipse.jdt.ui.modelProvider">&#x0A;<mappings>&#x0A;<resources resourcePath="/DatosCompartidos" resourceType="4"/>
+<resources resourcePath="/Grafos" resourceType="4"/>
+<resources resourcePath="/EjemplosPL" resourceType="4"/>
+<resources resourcePath="/Geneticos" resourceType="4"/>
+<resources resourcePath="/SolveTest" resourceType="4"/>
+<resources resourcePath="/EjemplosDeGrafos" resourceType="4"/>
+<resources resourcePath="/EjemplosAlgoritmos" resourceType="4"/>
+<resources resourcePath="/EjemplosParteComun" resourceType="4"/>
+<resources resourcePath="/EjemplosGeneticos" resourceType="4"/>
+<resources resourcePath="/Solve" resourceType="4"/>
+<resources resourcePath="/ParteComun" resourceType="4"/>
+</mappings>
+</org.eclipse.team.ui.MODEL_PARTICIPANT_MAPPINGS>
+<org.eclipse.team.ui.MODEL_PARTICIPANT_MAPPINGS modelProviderId="org.eclipse.core.resources.modelProvider">&#x0A;<mappings>&#x0A;<resources resourcePath="/DatosCompartidos" resourceType="4"/>
+<resources resourcePath="/Grafos" resourceType="4"/>
+<resources resourcePath="/EjemplosPL" resourceType="4"/>
+<resources resourcePath="/Geneticos" resourceType="4"/>
+<resources resourcePath="/SolveTest" resourceType="4"/>
+<resources resourcePath="/EjemplosDeGrafos" resourceType="4"/>
+<resources resourcePath="/EjemplosAlgoritmos" resourceType="4"/>
+<resources resourcePath="/EjemplosParteComun" resourceType="4"/>
+<resources resourcePath="/EjemplosGeneticos" resourceType="4"/>
+<resources resourcePath="/Solve" resourceType="4"/>
+<resources resourcePath="/ParteComun" resourceType="4"/>
+<resources resourcePath="/Parsers" resourceType="4"/>
+</mappings>
+</org.eclipse.team.ui.MODEL_PARTICIPANT_MAPPINGS>
+</org.eclipse.team.ui.MODEL_PARTICIPANT_SETTINGS>
+<gitSynchronizeData container="C:/Users/aleja/git/ada_v2_18/java/Grafos" dstRev="9d91a53cac24eab5f4ca67a98690f8584f46c550" inludeLocal="true" srcRev="HEAD">&#x0A;<includedPaths>&#x0A;<path path="C:/Users/aleja/git/ada_v2_18/java/DatosCompartidos"/>
+<path path="C:/Users/aleja/git/ada_v2_18/java/EjemplosPL"/>
+<path path="C:/Users/aleja/git/ada_v2_18/java/Geneticos"/>
+<path path="C:/Users/aleja/git/ada_v2_18/java/SolveTest"/>
+<path path="C:/Users/aleja/git/ada_v2_18/java/EjemplosParteComun"/>
+<path path="C:/Users/aleja/git/ada_v2_18/java/ParteComun"/>
+<path path="C:/Users/aleja/git/ada_v2_18/java/Grafos"/>
+<path path="C:/Users/aleja/git/ada_v2_18/java/EjemplosDeGrafos"/>
+<path path="C:/Users/aleja/git/ada_v2_18/java/EjemplosAlgoritmos"/>
+<path path="C:/Users/aleja/git/ada_v2_18/java/EjemplosGeneticos"/>
+<path path="C:/Users/aleja/git/ada_v2_18/java/Solve"/>
+<path path="C:/Users/aleja/git/ada_v2_18/java/Parsers"/>
+</includedPaths>
+</gitSynchronizeData>
+</data>
+</participant>
+</syncparticipants>

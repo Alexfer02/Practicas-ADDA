@@ -1,0 +1,9 @@
+strict digraph G {
+  1 [ style="bold" label="CafeVertex[index=2, remaining=[11, 9, 7, 12, 6]]" ];
+  2 [ style="bold" label="CafeVertex[index=3, remaining=[11, 9, 7, 12, 6]]" ];
+  3 [ style="bold" label="CafeVertex[index=1, remaining=[11, 9, 7, 12, 6]]" ];
+  4 [ style="bold" label="CafeVertex[index=0, remaining=[11, 9, 7, 12, 6]]" ];
+  1 -> 2 [ style="solid" label="CafeEdge[source=CafeVertex[index=2, remaining=[11, 9, 7, 12, 6]], target=CafeVertex[index=3, remaining=[11, 9, 7, 12, 6]], action=0, weight=0.0]" ];
+  3 -> 1 [ style="solid" label="CafeEdge[source=CafeVertex[index=1, remaining=[11, 9, 7, 12, 6]], target=CafeVertex[index=2, remaining=[11, 9, 7, 12, 6]], action=0, weight=0.0]" ];
+  4 -> 3 [ style="solid" label="CafeEdge[source=CafeVertex[index=0, remaining=[11, 9, 7, 12, 6]], target=CafeVertex[index=1, remaining=[11, 9, 7, 12, 6]], action=0, weight=0.0]" ];
+}
